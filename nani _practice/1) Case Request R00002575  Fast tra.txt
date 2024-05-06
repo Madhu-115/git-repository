@@ -1,0 +1,6 @@
+1) Case Request R00002575 : Fast track Motion number assigned to Ncms system
+2) file document -> my cases -> case information ->staus is not showing(This issue is fixed)
+3)Tasks ->fee payment ->proceed payment(it asking for Enter phone number)
+4)Fast Track Motion ->case information ->unable to fetch case history (case  history is not showing)
+5)MyRequest ->Case History ->Unable to fetch case history
+6)
